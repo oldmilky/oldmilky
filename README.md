@@ -8,16 +8,16 @@ The most charged, ready for training and work in the company &#129321;
 
 ## Languages and Tools:
 
-![HTML](https://img.shields.io/badge/-HTML-22386a?style=for-the-badge&logo=html)
-![CSS](https://img.shields.io/badge/-HTML-22386a?style=for-the-badge&logo=css)
-![JavaScript](https://img.shields.io/badge/-HTML-22386a?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-HTML-22386a?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/-HTML-22386a?style=for-the-badge&logo=redux)
-![Node.js](https://img.shields.io/badge/-HTML-22386a?style=for-the-badge&logo=nodejs)
-![MUI](https://img.shields.io/badge/-HTML-22386a?style=for-the-badge&logo=mui)
-![Nginx](https://img.shields.io/badge/-HTML-22386a?style=for-the-badge&logo=nginx)
-![Webpack](https://img.shields.io/badge/-HTML-22386a?style=for-the-badge&logo=webpack)
-![Figma](https://img.shields.io/badge/-HTML-22386a?style=for-the-badge&logo=figma)
+![HTML](https://img.shields.io/badge/-HTML-22386a?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-22386a?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-22386a?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-22386a?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-22386a?style=for-the-badge&logo=redux)
+![Node.js](https://img.shields.io/badge/-Node.js-22386a?style=for-the-badge&logo=node.js)
+![MUI](https://img.shields.io/badge/-Mui-22386a?style=for-the-badge&logo=mui)
+![Nginx](https://img.shields.io/badge/-Nginx-22386a?style=for-the-badge&logo=nginx)
+![Webpack](https://img.shields.io/badge/-Webpack-22386a?style=for-the-badge&logo=webpack)
+![Figma](https://img.shields.io/badge/-Figma-22386a?style=for-the-badge&logo=figma)
 
 ## My resume: 
 <a href="https://www.linkedin.com/in/%D1%80%D0%BE%D0%B4%D0%B8%D0%BE%D0%BD-%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%BE%D0%B2-959953239/" target="_blank">LinkedIn</a><br>
