@@ -20,8 +20,7 @@ The most charged, ready for training and work in the company &#129321;
 ![Figma](https://img.shields.io/badge/-Figma-22386a?style=for-the-badge&logo=figma)
 
 ## My resume: 
-<a href="https://www.linkedin.com/in/%D1%80%D0%BE%D0%B4%D0%B8%D0%BE%D0%BD-%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%BE%D0%B2-959953239/" target="_blank">
-![Figma](https://img.shields.io/badge/-Figma-22386a?style=for-the-badge&logo=figma)</a><br>
+<a href="https://www.linkedin.com/in/%D1%80%D0%BE%D0%B4%D0%B8%D0%BE%D0%BD-%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%BE%D0%B2-959953239/" target="_blank">LinkedIn</a><br>
 <a href="https://hh.kz/resume/a2a73c9cff09e6f5ae0039ed1f4c6178326348" target="_blank">HeadHunter</a><br>
 <a href="https://career.habr.com/oldmilky" target="_blank">Habr Career</a>
 
